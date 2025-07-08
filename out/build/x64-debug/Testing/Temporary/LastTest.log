@@ -1,19 +1,19 @@
-Start testing: Jul 08 12:02 India Standard Time
+Start testing: Jul 08 12:43 India Standard Time
 ----------------------------------------------------------
 1/2 Testing: test_main
 1/2 Test: test_main
 Command: "C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/test_main.exe"
 Directory: C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug
-"test_main" start time: Jul 08 12:02 India Standard Time
+"test_main" start time: Jul 08 12:43 India Standard Time
 Output:
 ----------------------------------------------------------
 Running tests.....
 [PASS] All tests passed....
 <end of output>
-Test time =   0.01 sec
+Test time =   0.06 sec
 ----------------------------------------------------------
 Test Passed.
-"test_main" end time: Jul 08 12:02 India Standard Time
+"test_main" end time: Jul 08 12:43 India Standard Time
 "test_main" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -21,17 +21,17 @@ Test Passed.
 2/2 Test: test_main2
 Command: "C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/test_main2.exe"
 Directory: C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug
-"test_main2" start time: Jul 08 12:02 India Standard Time
+"test_main2" start time: Jul 08 12:43 India Standard Time
 Output:
 ----------------------------------------------------------
 Running tests.....
-[PASS] All tests passed....
+[FAIL] division(10, 0) != 0.0 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.05 sec
 ----------------------------------------------------------
-Test Passed.
-"test_main2" end time: Jul 08 12:02 India Standard Time
+Test Failed.
+"test_main2" end time: Jul 08 12:43 India Standard Time
 "test_main2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jul 08 12:02 India Standard Time
+End testing: Jul 08 12:43 India Standard Time

@@ -41,8 +41,8 @@ int main()
 		cerr << "[FAIL] division(10, 5) != 2.0 \n";
 		return 1;
 	}
-	//if (division(10, 0) != 1)
-	if (division(10, 0) != 0.0)
+	if (division(10, 0) != 1)
+	//if (division(10, 0) != 0.0)
 	{
 		cerr << "[FAIL] division(10, 0) != 0.0 \n";
 		return 1;
