@@ -1,0 +1,7 @@
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/mylib.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/MyApp.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/test_main.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/test_main2.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/MyFirstCICD/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

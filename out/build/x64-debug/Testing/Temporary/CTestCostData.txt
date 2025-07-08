@@ -1,0 +1,4 @@
+RunMyTests 2 0.0047839
+test_main 6 0.00183958
+test_main2 5 0.00223858
+---
