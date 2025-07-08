@@ -1,5 +1,4 @@
 RunMyTests 2 0.0047839
-test_main 7 0.00823884
-test_main2 5 0
+test_main 8 0.0012752
+test_main2 6 0.00951452
 ---
-test_main2
